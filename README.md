@@ -4,7 +4,7 @@
 
 Адаптивный первый экран сайта Nat Geo Wild, посвященного дикой природе, окружающей среде и существах, обитающих на Земле.
 
-![image](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![image](https://github.com/DayensCode/nat-geo-wild/blob/main/screenshot-for-readme.png)
 
 ### Ссылка на макет
 
