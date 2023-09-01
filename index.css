@@ -11,8 +11,11 @@
 @import url(./css/header/__link/header__link.css);
 @import url(./css/header/__buttons-list/header__buttons-list.css);
 @import url(./css/header/__button/header__button.css);
+@import url(./css/header/__form/header__form.css);
+@import url(./css/header/__input/header__input.css);
 @import url(./css/header/__svg/header__svg.css);
 @import url(./css/header/__link/_active/header__link_active.css);
+@import url(./css/header/__form/_opened/header__form_opened.css);
 
 @import url(./css/visually-hidden/visually-hidden.css);
 

@@ -1,6 +1,11 @@
 .header__svg {
 	width: 23px;
 	height: 23px;
+	transition: opacity .3s ease-in-out;
+}
+
+.header__svg:hover {
+	opacity: .8;
 }
 
 @media screen and (max-width: 865px) {

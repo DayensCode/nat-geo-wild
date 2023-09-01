@@ -1,0 +1,13 @@
+.header__input {
+	padding: 0;
+	padding-left: 1%;
+	background-color: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid rgb(133, 133, 133);
+	color: rgb(133, 133, 133);
+	font-size: calc(2px + 14 * (100vw / 1280));
+	font-weight: 400;
+	font-style: normal;
+	line-height: normal;
+}

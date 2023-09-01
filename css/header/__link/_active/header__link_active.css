@@ -1,8 +1,8 @@
-.header__link--active {
+.header__link_active {
 	position: relative;
 }
 
-.header__link--active::before {
+.header__link_active::before {
 	content: "";
 	width: 100%;
 	height: 6px;
