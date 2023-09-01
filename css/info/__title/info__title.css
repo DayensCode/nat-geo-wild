@@ -2,13 +2,12 @@
 	margin: 0;
 	margin-bottom: 2%;
 	text-transform: uppercase;
-	font-size: 20px;
 	line-height: normal;
+	font-size: calc(1px + 19 * (100vw / 1280));
 }
 
 @media screen and (max-width: 965px) {
 	.info__title {
-	 font-size: calc(1px + 19 * (100vw / 1280));
 	line-height: .8;
 	}
 }

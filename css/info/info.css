@@ -15,21 +15,18 @@
 @media screen and (max-width: 965px) {
 		.info {
 		margin-top: 0;
-		bottom: 7%;
-		line-height: 1;
+		bottom: 8%;
 	}
 }
 
 @media screen and (max-width: 500px) {
 	.info {
 	bottom: 6%;
-	line-height: .8;
 	}
 }
 
 @media screen and (max-width: 389px) {
 	.info {
 	bottom: 8%;
-	line-height: .8;
 	}
 }
