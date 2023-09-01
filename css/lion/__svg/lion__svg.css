@@ -1,0 +1,9 @@
+.lion__svg {
+	padding-right: 7%;
+	width: 46%;
+	transition: transform 0.3s ease-in-out;
+}
+
+.lion__svg:hover {
+	transform: scale(0.95);
+}

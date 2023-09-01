@@ -2,4 +2,27 @@
 
 @import url(./fonts/fonts.css);
 
-@import url(./css/style.css);
+@import url(./css/page/page.css);
+
+@import url(./css/header/header.css);
+@import url(./css/header/__logo-link/header__logo-link.css);
+@import url(./css/header/__logo/header__logo.css);
+@import url(./css/header/__nav-list/header__nav-list.css);
+@import url(./css/header/__link/header__link.css);
+@import url(./css/header/__buttons-list/header__buttons-list.css);
+@import url(./css/header/__button/header__button.css);
+@import url(./css/header/__svg/header__svg.css);
+@import url(./css/header/__link/_active/header__link_active.css);
+
+@import url(./css/visually-hidden/visually-hidden.css);
+
+@import url(./css/lion/lion.css);
+@import url(./css/lion/__svg/lion__svg.css);
+
+@import url(./css/buttons/buttons.css);
+@import url(./css/buttons/__mouse/buttons__mouse.css);
+@import url(./css/buttons/__play/buttons__play.css);
+
+@import url(./css/info/info.css);
+@import url(./css/info/__title/info__title.css);
+@import url(./css/info/__text/info__text.css);

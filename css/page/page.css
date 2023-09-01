@@ -1,0 +1,10 @@
+.page {
+	max-width: 1920px;
+	font-family: "Poppins", sans-serif;
+	color: #fff;
+	background-color: #406343;
+	background-image: url("../../img/cover.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+}

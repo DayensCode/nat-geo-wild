@@ -1,0 +1,19 @@
+.header__buttons-list {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: flex;
+	gap: 20px;
+}
+
+@media screen and (max-width: 665px) {
+	.header__buttons-list {
+		gap: 16px;
+	}
+}
+
+@media screen and (max-width: 455px) {
+	.header__buttons-list {
+		gap: 10px;
+	}
+}

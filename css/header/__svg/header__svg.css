@@ -1,0 +1,25 @@
+.header__svg {
+	width: 23px;
+	height: 23px;
+}
+
+@media screen and (max-width: 865px) {
+	.header__svg {
+		width: 18px;
+		height: 18px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.header__svg {
+		width: 14px;
+		height: 14px;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.header__svg {
+		width: 12px;
+		height: 12px;
+	}
+}

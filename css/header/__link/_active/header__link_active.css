@@ -1,0 +1,13 @@
+.header__link--active {
+	position: relative;
+}
+
+.header__link--active::before {
+	content: "";
+	width: 100%;
+	height: 6px;
+	border-radius: 2px;
+	background-color: #406343;
+	position: absolute;
+	bottom: -10px;
+}

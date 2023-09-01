@@ -1,0 +1,9 @@
+.header__logo-link {
+	width: 8%;
+	transition: .3s ease-in-out;
+	cursor: pointer;
+}
+
+.header__logo-link:hover {
+	opacity: .8;
+}

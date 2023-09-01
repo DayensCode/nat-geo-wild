@@ -1,0 +1,35 @@
+.info {
+	margin-left: 70%;
+	width: 22%;
+	position: absolute;
+	bottom: 8%;
+}
+
+@media screen and (max-width: 1205px) {
+	.info {
+		margin-top: 1.3%;
+		bottom: 9%;
+	}
+}
+
+@media screen and (max-width: 965px) {
+		.info {
+		margin-top: 0;
+		bottom: 7%;
+		line-height: 1;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.info {
+	bottom: 6%;
+	line-height: .8;
+	}
+}
+
+@media screen and (max-width: 389px) {
+	.info {
+	bottom: 8%;
+	line-height: .8;
+	}
+}
