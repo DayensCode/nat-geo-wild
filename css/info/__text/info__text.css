@@ -7,8 +7,8 @@
 	line-height: normal;
 }
 
-@media screen and (max-width: 1205px) {
+@media screen and (max-width: 1150px) {
 	.info__text {
-	line-height: 1;
+	line-height: 1.2;
 	}
 }

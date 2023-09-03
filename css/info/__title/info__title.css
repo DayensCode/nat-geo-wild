@@ -6,8 +6,8 @@
 	font-size: calc(1px + 19 * (100vw / 1280));
 }
 
-@media screen and (max-width: 965px) {
+@media screen and (max-width: 1250px) {
 	.info__title {
-	line-height: .8;
+		margin-bottom: 0;
 	}
 }
